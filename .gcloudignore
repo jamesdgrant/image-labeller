@@ -1,0 +1,7 @@
+# Turn this into a whitelist
+*
+!.
+
+# Whitelist these files for deployment
+!index.js
+!package.json
